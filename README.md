@@ -8,6 +8,8 @@
 
 * Flex-box
 
+* JavaScript
+
 ## Hecho por:
 
 ### Enrique

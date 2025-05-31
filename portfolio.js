@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-     // --- LÓGICA DEL CARRUSEL ---
+     // --- CARRUSEL ---
      const container = document.querySelector('.card-container');
      const prevBtn = document.getElementById('prevBtn');
      const nextBtn = document.getElementById('nextBtn');
